@@ -4,4 +4,6 @@
     <string name="open_activity_3">Open activity 3</string>
     <string name="this_is_activity_1">This is Activity 1</string>
     <string name="open_activity_2">Open Activity 2</string>
+    <string name="this_is_activity_3">This is activity 3</string>
+    <string name="this_is_the_last_activity">This is the last Activity</string>
 </resources>
